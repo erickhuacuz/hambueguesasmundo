@@ -1,6 +1,6 @@
 //
 //  Datos.swift
-//  Hamburguesa
+//  Hamburguesas en el mundo
 //
 //  Created by Erick Huacuz Guerrero on 24/04/16.
 //  Copyright © 2016 Erick Huacuz Guerrero. All rights reserved.
